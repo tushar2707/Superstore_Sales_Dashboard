@@ -1,0 +1,1 @@
+Superstore data report which helped in providing the comprehensive overview of the sales, identifying key aread for improvement and supporting the strategic decision making to enhance the store's overall performance and efficiency.
